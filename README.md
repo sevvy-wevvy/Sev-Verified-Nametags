@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sevvy-wevvy/Several-Bees/releases/latest">
-    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Several-Bees/total?label=Downloads&style=for-the-badge" alt="Downloads">
+  <a href="https://github.com/sevvy-wevvy/Sev-Verified-Nametags/releases/latest">
+    <img src="https://img.shields.io/github/downloads/sevvy-wevvy/Sev-Verified-Nametags/total?label=Downloads&style=for-the-badge" alt="Downloads">
   </a>
-  <a href="https://github.com/sevvy-wevvy/Several-Bees/releases/latest">
-    <img src="https://img.shields.io/github/v/release/sevvy-wevvy/Several-Bees?label=Version&style=for-the-badge&color=red" alt="Version">
+  <a href="https://github.com/sevvy-wevvy/Sev-Verified-Nametags/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Sev-Verified-Nametags/Several-Bees?label=Version&style=for-the-badge&color=red" alt="Version">
   </a>
   <a href="https://sevvy-wevvy.com/discord">
     <img src="https://img.shields.io/discord/1398944180079689728?label=Discord&style=for-the-badge" alt="Discord">
