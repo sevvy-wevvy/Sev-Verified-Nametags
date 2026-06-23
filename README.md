@@ -1,4 +1,5 @@
 <h1 align="center">Sev Verified Nametags</h1>
+<h1 align="center">This Project has been Truncated, please try <a href="https://github.com/sevvy-wevvy/Sevs-Better-Nametags/">Sevs Better Nametags</a></h1>
 
 <p align="center">
 <b>A mod for Gorilla Tag the modifies peoples nameplate colors to match there role in the official Gorilla Tag Modding discord.</b>
